@@ -1,8 +1,8 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Kayleen Ramirez 👋
 
 CS & DS student at UM
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![pkr20's Stats](https://github-readme-stats.vercel.app/api?username=pkr20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 

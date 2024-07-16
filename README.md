@@ -10,7 +10,7 @@ CS & DS student at UM
 - 🌐 Data Science Research Assistant [MANATEE LAB](http://manateelab.org/) 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c#,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,csharp)](https://skillicons.dev)
 
 
 

@@ -6,7 +6,6 @@ CS & DS student at UM
 
 ## About Me
 
-- 🔭 VR Developer
 - 📝 Website [pkramirez](https://pkramirez.me/)
 - 🌐 Research Assistant at of the [MANATEE LAB](http://manateelab.org/).
 

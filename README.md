@@ -6,8 +6,8 @@ CS & DS student at UM
 
 ## About Me
 
-- 📝 Website [pkramirez](https://pkramirez.me/)
-- 🌐 [MANATEE LAB](http://manateelab.org/) Data Research Assistant 
+- 📝 Website: [pkramirez.me](https://pkramirez.me/)
+- 🌐 Data Science Research Assistant [MANATEE LAB](http://manateelab.org/) 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,c#,git)](https://skillicons.dev)

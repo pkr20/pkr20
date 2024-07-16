@@ -1,4 +1,4 @@
-# Hi, I'm Kayleen Ramirez 👋
+# Hi 👋
 
 CS & DS student at UM
 

@@ -1,6 +1,6 @@
-# Hello
+# Welcome 
 
-CS & DS student at UM
+CS & DS student at UM, XR Developer, SWE
 
 ![pkr20's Stats](https://github-readme-stats.vercel.app/api?username=pkr20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 

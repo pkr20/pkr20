@@ -7,7 +7,7 @@ CS & DS student at UM, XR Developer, SWE
 ## About Me
 
 - 📝 Website: [pkramirez.me](https://pkramirez.me/)
-- 🌐 Data Science Research Assistant [MANATEE LAB](http://manateelab.org/) 
+- 🌐 Data Science [MANATEE LAB](http://manateelab.org/) 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,csharp)](https://skillicons.dev)

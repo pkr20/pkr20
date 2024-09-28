@@ -1,8 +1,8 @@
 # Welcome 
 
 CS & DS student at UM, XR Developer, SWE
-
-![pkr20's Stats](https://github-readme-stats.vercel.app/api?username=pkr20&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkr20&layout=compact&langs_count=6&hide=makefile,shell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 

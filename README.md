@@ -2,7 +2,7 @@
 
 CS & DS student at UM, XR Developer, SWE
 ### GitHub Stats
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://github.com/anuraghazra/github-readme-streak-stats)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=pkr20&theme=radical)](https://github.com/anuraghazra/github-readme-streak-stats)
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkr20&layout=compact&langs_count=6&hide=makefile,shell&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome, I love tech 🤖👩🏻‍💻
 
 CS & DS student at UM, XR Developer, SWE
 

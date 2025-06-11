@@ -11,7 +11,7 @@ CS & Math student at UM, XR Developer, SWE
 ## About Me
 - 📝 Website: [pkramirez.me](https://pkramirez.me/)
 - 🌐 Data Science [MANATEE LAB](http://manateelab.org/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkramirez/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkramirez/)
 
 ### GitHub Stats
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=pkr20&theme=radical)](https://github.com/anuraghazra/github-readme-streak-stats)

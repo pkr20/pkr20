@@ -1,6 +1,6 @@
 # Welcome, I love tech 🤖👩🏻‍💻
 
-CS & DS student at UM, XR Developer, SWE
+CS & Math student at UM, XR Developer, SWE
 
 
 ## Tech Stack
